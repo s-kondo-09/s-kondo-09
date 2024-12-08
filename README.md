@@ -1,11 +1,14 @@
-## Hi there 👋
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-kondo-09&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=s-kondo-09&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+## Languages
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s-kondo-09&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/-Python-lightgrey.svg?logo=python&style=flat">
+
+## Skills
+<a href="https://atcoder.jp/users/alfa7621" target="_blank" title="alfa7621"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Falfa7621" /></a>
+
+<img src="https://img.shields.io/badge/TOEIC L&R-915-lightgrey.svg?style=flat">
+
+<img src="https://img.shields.io/badge/Fundamental Information Technology Engineer Examination-Passed-lightgrey.svg?style=flat">
+
 
 <!--
 **s-kondo-09/s-kondo-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
